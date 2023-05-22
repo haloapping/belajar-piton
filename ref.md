@@ -1,0 +1,1 @@
+- [Python Tutorial](https://www.pythontutorial.net/)
